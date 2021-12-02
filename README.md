@@ -1,5 +1,5 @@
 
- <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px; margin-right:10px;" width="450" height="450" />
+ <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px; margin-right:30px;" width="450" height="450" />
 
 # Hi, I'm Nivea and here you can see some infos about me...
 
