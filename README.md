@@ -1,17 +1,24 @@
-
- <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="400" height="400" />
-
-<div style="margin-left: 100px;">
+<table border="0">
+ <tr>
+    <td><img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="400" height="400" /></td>
+    <td>
+     <div style="margin-left: 100px;">
  
-# Hi, I'm Nivea and here you can see some infos about me...
+       # Hi, I'm Nivea and here you can see some infos about me...
 
-- 💻 Currently working at and [IBM Brasil](https://www.ibm.com/) at [Driven Education](https://www.driven.com.br/) as Programming Tutor.
-- 🎓 I'm a Computer Science student at UFRJ
-- 📚 I've been studying programming since 2018 and you can see what I'm learning here below.
-- 🎨 I really love drawing and art. I think that's why I've been studying UX/UI design.
-- 😄 Pronouns: She/Her
+       - 💻 Currently working at and [IBM Brasil](https://www.ibm.com/) at [Driven Education](https://www.driven.com.br/) as Programming Tutor.
+       - 🎓 I'm a Computer Science student at UFRJ
+       - 📚 I've been studying programming since 2018 and you can see what I'm learning here below.
+       - 🎨 I really love drawing and art. I think that's why I've been studying UX/UI design.
+       - 😄 Pronouns: She/Her
+
+     </div>
+    </td>
+ </tr>
+</table>
  
-</div>
+
+
 
 <br />
 <br />
