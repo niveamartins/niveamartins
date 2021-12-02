@@ -1,7 +1,7 @@
 
 <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="400" height="400" /></td>
 
-<div>
+<div style="margin-left:30px;">
  
        # Hi, I'm Nivea and here you can see some infos about me...
 
