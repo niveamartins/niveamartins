@@ -1,8 +1,7 @@
-<table border="0">
- <tr>
-    <td><img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="400" height="400" /></td>
-    <td>
-     <div>
+
+<img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="400" height="400" /></td>
+
+<div>
  
        # Hi, I'm Nivea and here you can see some infos about me...
 
@@ -12,10 +11,7 @@
        - 🎨 I really love drawing and art. I think that's why I've been studying UX/UI design.
        - 😄 Pronouns: She/Her
 
-     </div>
-    </td>
- </tr>
-</table>
+</div>
  
 
 
