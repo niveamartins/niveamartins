@@ -101,6 +101,6 @@
 </div>
 <div style="display:inline;">
  
-  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niveamartins&theme=great-gatsby)
+  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niveamartins&layout=compact)
  
 </div>
