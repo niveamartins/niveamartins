@@ -1,6 +1,7 @@
 
- <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px; margin-right:30px;" width="450" height="450" />
+ <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="450" height="450" />
 
+<div style="margin-left: 30px;">
 # Hi, I'm Nivea and here you can see some infos about me...
 
 - 💻 Currently working at and [IBM Brasil](https://www.ibm.com/) at [Driven Education](https://www.driven.com.br/) as Programming Tutor.
@@ -8,6 +9,7 @@
 - 📚 I've been studying programming since 2018 and you can see what I'm learning here below.
 - 🎨 I really love drawing and art. I think that's why I've been studying UX/UI design.
 - 😄 Pronouns: She/Her
+</div>
 
 <br />
 <br />
