@@ -93,13 +93,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wxrtins/)
 
 ## Here are some Github Stats.
-<div style="display:inline;" align="left">
+  
+<div style="display:inline;" align="center">
  
-  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niveamartins&theme=great-gatsby&show_icons=true&hide=issues)
-
-</div>
-<div style="display:inline;">
- 
-  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niveamartins&theme=great-gatsby&layout=compact)
+  <img height="180em" alt="Nivea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niveamartins&theme=great-gatsby&show_icons=true&hide=issues"/>
+  <img height="180em" alt="Nivea's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveamartins&theme=great-gatsby&layout=compact"/>
  
 </div>
