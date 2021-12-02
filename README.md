@@ -9,6 +9,14 @@
 - 🎨 I really love drawing and art. I think that's why I've been studying UX/UI design.
 - 😄 Pronouns: She/Her
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Technologies that I'm comfortable with...
 
 <details>
@@ -85,5 +93,6 @@
 ## Here are some Github Stats.
 <div>
   ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wxrtins&theme=great-gatsby&show_icons=true&hide=issues)
+ 
   ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wxrtins&theme=great-gatsby)
 </div>
