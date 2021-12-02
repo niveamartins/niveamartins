@@ -1,25 +1,19 @@
 
-<img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="400" height="400" /></td>
+<img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="450" height="450" /></td>
 
 <div style="margin-left:30px;">
  
-       # Hi, I'm Nivea and here you can see some infos about me...
+ # Hi, I'm Nivea and here you can see some infos about me...
 
-       - 💻 Currently working at and [IBM Brasil](https://www.ibm.com/) at [Driven Education](https://www.driven.com.br/) as Programming Tutor.
-       - 🎓 I'm a Computer Science student at UFRJ
-       - 📚 I've been studying programming since 2018 and you can see what I'm learning here below.
-       - 🎨 I really love drawing and art. I think that's why I've been studying UX/UI design.
-       - 😄 Pronouns: She/Her
+   💻 Currently working at and [IBM Brasil](https://www.ibm.com/) at [Driven Education](https://www.driven.com.br/) as Programming Tutor <br /><br />
+   🎓 I'm a Computer Science student at UFRJ <br /><br />
+   📚 I've been studying programming since 2018 and you can see what I'm learning here below. <br /> <br />
+   🎨 I really love drawing and art. I think that's why I've been studying UX/UI design. <br /><br />
+   😄 Pronouns: She/Her
 
 </div>
  
 
-
-
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -78,12 +72,14 @@
 
 <details>
   <summary><b>Mobile</b></summary>
+ 
   ![Ionic](https://img.shields.io/badge/Ionic-4285F4?style=for-the-badge&logo=ionic&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 </details>
 
 <details>
   <summary><b>Databases</b></summary>
+ 
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 </details>
 
@@ -98,9 +94,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wxrtins/)
 
 ## Here are some Github Stats.
-<div>
+<div style="display:inline;" align="left">
  
   ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niveamartins&theme=great-gatsby&show_icons=true&hide=issues)
+
+</div>
+<div style="display:inline;">
  
   ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niveamartins&theme=great-gatsby)
  
