@@ -1,6 +1,6 @@
 ### Hi, I'm Nivea 👋
 
- <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:50px;" width="450" height="350" />
+ <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="450" height="450" />
 <!--
 **niveamartins/niveamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
