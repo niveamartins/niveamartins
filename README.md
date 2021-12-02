@@ -1,5 +1,5 @@
 
- <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="450" height="450" />
+ <img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px; margin-right:10px;" width="450" height="450" />
 
 # Hi, I'm Nivea and here you can see some infos about me...
 
@@ -92,7 +92,9 @@
 
 ## Here are some Github Stats.
 <div>
-  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wxrtins&theme=great-gatsby&show_icons=true&hide=issues)
  
-  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wxrtins&theme=great-gatsby)
+  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niveamartins&theme=great-gatsby&show_icons=true&hide=issues)
+ 
+  ![Nivea's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niveamartins&theme=great-gatsby)
+ 
 </div>
