@@ -59,7 +59,7 @@
 
 </details>
 
-## If someone asks me whatelse I already worked...
+## If someone asks me whatelse I already worked with...
 <details>
   <summary><b>Programming Languages & Frameworks</b></summary>
 
