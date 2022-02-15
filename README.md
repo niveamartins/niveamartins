@@ -5,7 +5,7 @@
  
  # Hi, I'm Nivea and here you can see some infos about me...
 
-   💻 Currently working at [IBM Brasil](https://www.ibm.com/) as Software Developer Intern and at [Driven Education](https://www.driven.com.br/) as Programming Teacher Assistant <br /><br />
+   💻 Currently working at [IBM Brasil](https://www.ibm.com/) as Software Developer Intern and at [Loggi Tecnologia](https://www.loggi.com/) as Software Engineer I. <br /><br />
    🎓 I'm a Computer Science student at UFRJ <br /><br />
    📚 I've been studying programming since 2018 and you can see what I'm learning here below. <br /> <br />
    🎨 I really love drawing and art. I think that's why I've been studying UX/UI design. <br /><br />
