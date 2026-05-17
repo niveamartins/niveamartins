@@ -1,6 +1,4 @@
 
-<img align="left" alt="Nivea's personal avatar" src="https://github.com/niveamartins/niveamartins/blob/main/avatar-git.png" style="margin-top:30px;" width="450" height="450" /></td>
- 
  # Hi, I'm Nivea and here you can see some infos about me...
 
    💻 I´m Tech Lead @ Gupy. <br /><br />
